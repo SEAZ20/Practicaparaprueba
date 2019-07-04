@@ -1,0 +1,17 @@
+.caja1{
+	width: 1300px;
+	height: 50px;
+	background-color: red;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	color: blue;
+	text-align: center;
+	padding-bottom: 10px;
+	margin-left: 30px;
+	border: 5px solid blue;
+}
+
+#parrafo{
+	font-family:Verdana;
+	color: #0AA73E;
+}
